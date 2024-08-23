@@ -34,4 +34,4 @@ The Restaurant Management System is a web application designed to help restauran
 
 ```bash
 git clone https://github.com/Rushi-code1/Restorent_Web_Flask_App_/
-cd restaurant-management-system
+cd Restorent_Web_Flask_App_

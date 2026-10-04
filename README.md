@@ -1,37 +1,48 @@
-# 🍽️ Restaurant Management System
+# 🍽️ GourmetHub — Full-Stack Restaurant Web Application
 
-## Overview
+> A responsive restaurant discovery, menu exploration, and reservation web application built with Flask, SCSS, and modular component styling.
 
-The Restaurant Management System is a web application designed to help restaurants manage their operations efficiently. Built using the Flask framework, this project incorporates Bootstrap for styling, MySQL for database management, and various Python modules for enhanced security.
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3.0-000000?logo=flask&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-success)
 
-## Features
+---
 
-- 🔒 **User Authentication:** Secure login and registration system to manage user access.
-- 📋 **Menu Management:** Add, update, and delete menu items.
-- 🛍️ **Order Processing:** Handle customer orders and track their status.
-- 🛋️ **Table Management:** Manage tables and reservations.
-- 📊 **Reporting:** Generate reports on sales, orders, and customer activity.
+## 🚀 Features
 
-## Technologies Used
+- **Interactive Digital Menu** — Categorized dining selections with pricing, dietary tags, and culinary descriptions.
+- **Online Table Reservations** — Streamlined booking form capturing party size, preferred time slot, and special requests.
+- **Responsive Custom Styling** — Polished UI built with modular SCSS architecture, responsive breakpoints, and smooth transitions.
+- **Flask Backend Routes** — Modular Jinja2 template rendering with clean server-side request routing.
 
-- 🐍 **Flask:** A lightweight WSGI web application framework in Python.
-- 🎨 **Bootstrap:** Front-end framework for designing responsive and modern UI.
-- 🗃️ **MySQL:** Relational database management system for storing data.
-- 🌐 **HTML/CSS/JavaScript:** For creating the user interface and client-side interactions.
-- 🔐 **Python Modules:** Various modules for security and functionality enhancements (e.g., `Flask-Security`, `Flask-Login`).
+---
 
-## Installation
-
-### Prerequisites
-
-- Python 3.x
-- MySQL Server
-- pip (Python package installer)
-
-### Clone the Repository
+## ⚡ Quick Start
 
 ```bash
-
-```bash
-git clone https://github.com/Rushi-code1/Restorent_Web_Flask_App_/
+git clone https://github.com/Rushi-code1/Restorent_Web_Flask_App_.git
 cd Restorent_Web_Flask_App_
+pip install flask
+python main.py
+```
+
+---
+
+## 👨‍💻 Author & Connect
+
+**Rushikesh Deshmukh**  
+*Full Stack Developer & AI Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushikesh_Deshmukh-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-sunil-deshmukh)
+[![GitHub](https://img.shields.io/badge/GitHub-Rushi--code1-181717?logo=github&logoColor=white)](https://github.com/Rushi-code1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-6366F1?logo=google-chrome&logoColor=white)](https://rushi-code1.github.io/portfolio2/)
+[![Email](https://img.shields.io/badge/Email-rushikesh.deshmukh1103%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:rushikesh.deshmukh1103@gmail.com)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
